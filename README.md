@@ -1,1 +1,1 @@
-# psycology_chatbot
+# Psycology ChatBot using LLM
